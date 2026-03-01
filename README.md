@@ -43,7 +43,7 @@ games, building and security analysis.
 ### 💻 Computer Science
 - **Process Scheduler Simulator** – OS scheduling algorithms and comparisons  
 - **Data Structures Projects** – Implementations with performance analysis  
-- **Systems Programming Projects** – Low-level problem solving
+- **Systems Programming Projects** – High-level problem solving
 
 ---
 
