@@ -12,8 +12,9 @@
 
 Hi, my name's Ben and i'm a Computer Science & Cybersecurity double major with a strong interest in cybersecurity, 
 systems, and understanding how things operate much deeper than surface level. I enjoy computers, 
-games, building and security analysis. 
-Below you can find my more important accolades &darr;
+games, building and security analysis.
+
+Below you can find my more important accolades   &darr;
 
 ---
 
