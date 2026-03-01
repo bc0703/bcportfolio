@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Computer Science & Cybersecurity double major with a strong interest in cybersecurity, 
+Hi, my name's Ben and i'm a Computer Science & Cybersecurity double major with a strong interest in cybersecurity, 
 systems, and understanding how things operate much deeper than surface level. I enjoy computers, 
 games, building and security analysis.
 
@@ -18,7 +18,8 @@ games, building and security analysis.
 
 ## 🎓 Certifications
 
-- **CompTIA Security+** *(In Progress)*  
+- **CompTIA Security+** *(In Progress)*
+- **AWS Certified Cloud Practicioner** *(In progress)*
 - **Google Cybersecurity Professional Certificate**  
 - **TryHackMe – Junior Penetration Tester Path**
   
@@ -29,7 +30,7 @@ games, building and security analysis.
 - **Cybersecurity:** Network Security, Vulnerability Analysis, Cloud Computing 
 - **Languages** Python, Java, Shell, SQL
 - **Systems:** Linux, Git, Windows
-- **Tools:**  Wireshark, VStudio, Github, 
+- **Tools:**  Wireshark, VStudio, Github 
 
 ---
 
