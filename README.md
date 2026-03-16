@@ -41,7 +41,7 @@ Below you can find my more important accolades   &darr;
 ### 🔐 Cybersecurity
 - **Password Auditing Tool** – Offline password analysis using dictionary-based techniques  
 - **Network Scanner** – Custom-built scanner for learning network enumeration  
-- **Security Labs & Write-Ups** – Hands-on experimentation and analysis
+- **Ben's Phishing Detector** – Hands-on experimentation and analysis
 
 ### 💻 Computer Science
 - **Process Scheduler Simulator** – OS scheduling algorithms and comparisons  
