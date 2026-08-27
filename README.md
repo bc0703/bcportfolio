@@ -20,8 +20,8 @@ Below you can find my more important accolades   &darr;
 
 ## 🎓 Certifications
 
-- **CompTIA Security+** *(In Progress)*
-- **AWS Certified Cloud Practicioner** *(In progress)*
+- **CompTIA Security+**
+- **AWS Certified Cloud Practicioner**
 - **Google Cybersecurity Professional Certificate**  
 - **TryHackMe – Junior Penetration Tester Path**
   
